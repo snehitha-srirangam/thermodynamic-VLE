@@ -5,3 +5,4 @@ phi-gamma approach:
 
 (i) Algorithm to find Bubble point pressure under Isothermal conditions:
 
+![alt text](https://github.com/snehitha-srirangam/phase-equilibria/blob/Low-P-Isothermal-System/LowP-Isothermal-binary-systems/Bubble%20P%20algorithm.png)
