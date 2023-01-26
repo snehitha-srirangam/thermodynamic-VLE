@@ -1,4 +1,4 @@
-<font size="2">**Prediction of Isothermal and Isobaric VLE for binary systems**</font>
+<font size="6">**Prediction of Isothermal and Isobaric VLE for binary systems**</font>
 
 <div style="text-align: justify"> 
 Phase Equilibrium has significant importance in physical and biological sciences. The study of Phase Equilibrium relates quantitatively the variables that describe the state of equilibrium of two or more homogeneous phases that are free to exchange energy and matter. As it reaches the state of equilibrium, it thus obtains the corresponding equilibrium plots in Pressure-Temperature-composition space. 
