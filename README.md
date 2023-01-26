@@ -11,3 +11,8 @@ phi-gamma approach:
 
 <img src = "https://github.com/snehitha-srirangam/phase-equilibria/blob/Low-P-Isothermal-System/LowP-Isobaric-binary-systems/Bubble%20T%20algorithm.png" width="600" height="550">
 
+
+* Isothermal VLE was analyzed for Dimethyl Ether/n-dodecane and Dimethyl Ether/toluene systems using Van Laar mixing rule. It was observed that **NRTL/SRK** gives the best fit with standard deviations of bubble pressure as low as 10.7 kPa respectively with respect to the experimental result at 323.15 K.
+
+* Isobaric VLE was analyzed for the azeotropic systems of Acetone/Methanol, Chloroform/Methanol and Methyl cyclopentane/Ethanol. It was observed that **NRTL/SRK** gives the best fit for bubble temperature calculation with standard deviation of 0.17 K at 101.3 kPa.
+
