@@ -16,3 +16,6 @@ phi-gamma approach:
 
 * Isobaric VLE was analyzed for the azeotropic systems of Acetone/Methanol, Chloroform/Methanol and Methyl cyclopentane/Ethanol. It was observed that **NRTL/SRK** gives the best fit for bubble temperature calculation with standard deviation of 0.17 K at 101.3 kPa.
 
+This is the sample figure of the result obtained for one of the systems in comparison with the experiment.
+
+<img src = "https://github.com/snehitha-srirangam/phase-equilibria/blob/Low-P-Isothermal-System/LowP-Isobaric-binary-systems/Chloroform-Methanol%20system/NRTL-PR.png">
