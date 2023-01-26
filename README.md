@@ -7,4 +7,7 @@ phi-gamma approach:
 
 <img src = "https://github.com/snehitha-srirangam/phase-equilibria/blob/Low-P-Isothermal-System/LowP-Isothermal-binary-systems/Bubble%20P%20algorithm.png" width="600" height="550">
 
-(ii)
+(ii) Algorithm to find Bubble point temperature under Isobaric conditions:
+
+<img src = "https://github.com/snehitha-srirangam/phase-equilibria/blob/Low-P-Isothermal-System/LowP-Isobaric-binary-systems/Bubble%20T%20algorithm.png" width="600" height="550">
+
