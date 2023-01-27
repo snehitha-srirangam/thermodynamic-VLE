@@ -23,3 +23,6 @@ This is the sample figure of the result obtained for one of the systems in compa
 
 <img src = "https://github.com/snehitha-srirangam/phase-equilibria/blob/Low-P-Isothermal-System/LowP-Isobaric-binary-systems/Chloroform-Methanol%20system/NRTL-PR.png">
 
+For low pressure Systems, NRTL and SRK EOS together gave a better fit with experimental data. NRTL model fits for any miscible systems with little error. Other models like UNIQUAC, UNIFAC are more advanced and complex to study, but are accurate for non-ideal mixtures.
+
+SRK and PR EOS are almost similar except for acentric factor considerations in PR EOS. So, it is difficult to decide which one fits better. 
